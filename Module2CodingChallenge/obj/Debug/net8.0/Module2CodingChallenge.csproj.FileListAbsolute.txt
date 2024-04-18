@@ -1,0 +1,14 @@
+C:\Users\dorca\OneDrive\Documents\ApplicationDevelopment\Module2CodingChallenge\bin\Debug\net8.0\Module2CodingChallenge.exe
+C:\Users\dorca\OneDrive\Documents\ApplicationDevelopment\Module2CodingChallenge\bin\Debug\net8.0\Module2CodingChallenge.deps.json
+C:\Users\dorca\OneDrive\Documents\ApplicationDevelopment\Module2CodingChallenge\bin\Debug\net8.0\Module2CodingChallenge.runtimeconfig.json
+C:\Users\dorca\OneDrive\Documents\ApplicationDevelopment\Module2CodingChallenge\bin\Debug\net8.0\Module2CodingChallenge.dll
+C:\Users\dorca\OneDrive\Documents\ApplicationDevelopment\Module2CodingChallenge\bin\Debug\net8.0\Module2CodingChallenge.pdb
+C:\Users\dorca\OneDrive\Documents\ApplicationDevelopment\Module2CodingChallenge\obj\Debug\net8.0\Module2CodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dorca\OneDrive\Documents\ApplicationDevelopment\Module2CodingChallenge\obj\Debug\net8.0\Module2CodingChallenge.AssemblyInfoInputs.cache
+C:\Users\dorca\OneDrive\Documents\ApplicationDevelopment\Module2CodingChallenge\obj\Debug\net8.0\Module2CodingChallenge.AssemblyInfo.cs
+C:\Users\dorca\OneDrive\Documents\ApplicationDevelopment\Module2CodingChallenge\obj\Debug\net8.0\Module2CodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\dorca\OneDrive\Documents\ApplicationDevelopment\Module2CodingChallenge\obj\Debug\net8.0\Module2CodingChallenge.dll
+C:\Users\dorca\OneDrive\Documents\ApplicationDevelopment\Module2CodingChallenge\obj\Debug\net8.0\refint\Module2CodingChallenge.dll
+C:\Users\dorca\OneDrive\Documents\ApplicationDevelopment\Module2CodingChallenge\obj\Debug\net8.0\Module2CodingChallenge.pdb
+C:\Users\dorca\OneDrive\Documents\ApplicationDevelopment\Module2CodingChallenge\obj\Debug\net8.0\Module2CodingChallenge.genruntimeconfig.cache
+C:\Users\dorca\OneDrive\Documents\ApplicationDevelopment\Module2CodingChallenge\obj\Debug\net8.0\ref\Module2CodingChallenge.dll
